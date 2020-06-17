@@ -1,1 +1,1 @@
-web: ./sandbox up
+web: sudo ./sandbox up
